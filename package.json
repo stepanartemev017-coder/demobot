@@ -1,0 +1,9 @@
+{
+  "name": "demo-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "bot.js",
+  "scripts": { "start": "node bot.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "grammy": "^1.30.0" }
+}
